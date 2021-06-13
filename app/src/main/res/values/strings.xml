@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flickr Photo Search</string>
+    <string name="activity_transition">transition</string>
+    <string name="processing_msg">Processing…</string>
+    <string name="empty_list_msg">We could not find any images!</string>
+    <string name="unknown_error_msg">Some unknown error occurred!</string>
+    <string name="network_error_msg">It seems you have lost network connectivity.</string>
+</resources>
