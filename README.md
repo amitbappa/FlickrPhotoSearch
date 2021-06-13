@@ -1,3 +1,3 @@
 # FlickrPhotoSearch
 
-## Using Flicker search API we will get the resultent photo 
+## Using Flickr search API we will get the resultant photo.
